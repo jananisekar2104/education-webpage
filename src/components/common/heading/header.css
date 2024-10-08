@@ -1,0 +1,13 @@
+.head {
+  padding: 20px 0;
+  color: #fff;
+}
+.logo h1 {
+  font-size: 35px;
+  font-weight: 900;
+  color:rgb(233, 156, 13);
+  
+}
+.head .icon {
+  margin-left: 10px;
+}
